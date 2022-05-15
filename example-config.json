@@ -1,0 +1,14 @@
+{
+  "prefix":"~",
+  "symbol":"$",
+  "token":"OTcxNTQ5Mjk1NDk0OTg3ODQ3.YnMHyg.t3WY0ST4qv4b1tQ2eUU-sxTPVIU",
+  "minutes_per_check":1,
+  "search_response_ms": 60,
+  "url_params":{},
+  "guild_item_limit":5,
+  "cache_limit": 10,
+  "required_perms":["permission_1", "permission_2"],
+  "tld":"in",
+  "auto_cart_link":true,
+  "debug_enabled":false
+}
